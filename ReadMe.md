@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgelombana&label=Profile%20views&color=0e75b6&style=flat" alt="jorgelombana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgelombana" alt="jorgelombana" /></a> </p>
-
 - 🔭 I’m currently working on [acaDEVmia](https://github.com/JorgeLombana/acadevmia_project)
 
 - 🌱 I’m currently learning **React, Express, Node.js**
@@ -24,8 +22,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jorgelombana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jorgelombana" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgelombana&show_icons=true&locale=en&layout=compact" alt="jorgelombana" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgelombana&show_icons=true&locale=en" alt="jorgelombana" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgelombana&" alt="jorgelombana" /></p>
