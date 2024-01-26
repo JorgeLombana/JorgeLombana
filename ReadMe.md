@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Lombana</h1>
-<h3 align="center">A passionate Full Stack developer from Colombia</h3>
+<h3 align="center">A passionate web developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgelombana&label=Profile%20views&color=0e75b6&style=flat" alt="jorgelombana" /> </p>
 
-- 🔭 I’m currently working on [acaDEVmia](https://github.com/JorgeLombana/acadevmia_project)
-
-- 🌱 I’m currently learning **React, Express, Node.js**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JorgeLombana](https://github.com/JorgeLombana)
 
