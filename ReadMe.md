@@ -1,4 +1,4 @@
-# 🐱‍💻 Jorge Eliecer Lombana
+# 🐱‍💻 Jorge Lombana
 
 Full Stack Developer | Based in Bogotá |  Working with clients across LATAM & USA
 
