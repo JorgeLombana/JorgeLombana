@@ -1,15 +1,10 @@
-<h2 align="left">Hi 👋! My name is Jorge Lombana and I'm a Full Stack dev 🐱‍💻</h2>
+# 🐱‍💻 Jorge Eliecer Lombana
 
-###
+Full Stack Developer | Based in Bogotá |  Working with clients across LATAM & USA
 
+Hi there! I'm Jorge, a passionate Full Stack Developer who builds scalable and maintainable web applications using Angular, Node.js, and modern web technologies. With a strong foundation in software design, UI architecture, and backend integration, I focus on writing clean code and delivering real value through Agile development.
 
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/166344241?v=4"  />
-
-###
-
+## 🔧 Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="33" alt="angularjs logo"  />
   <img width="12" />
@@ -30,9 +25,17 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="33" alt="css3 logo"  />
 </div>
 
-###
 
-<br clear="both">
+## 📚 Currently
 
-<div align="left">
-</div>
+🎓 Studying Computer Science at University of the People (Starting Sep 2025)  
+📈 Improving my English and growing as a MEAN stack specialist  
+💬 Open to collaboration, mentorship, or new opportunities
+
+## 📫 Let's Connect
+
+- 📧 [lombanauci@gmail.com](mailto:lombanauci@gmail.com)
+- 🔗 [linkedin.com/in/jorge-lombana](https://linkedin.com/in/jorge-lombana)
+
+---
+Thanks for visiting! ⭐️ If you like my work, feel free to explore my repos and leave a star.
