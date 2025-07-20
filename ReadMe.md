@@ -25,17 +25,7 @@ Hi there! I'm Jorge, a passionate Full Stack Developer who builds scalable and m
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="33" alt="css3 logo"  />
 </div>
 
-
-## 📚 Currently
-
-🎓 Studying Computer Science at University of the People (Starting Sep 2025)  
-📈 Improving my English and growing as a MEAN stack specialist  
-💬 Open to collaboration, mentorship, or new opportunities
-
 ## 📫 Let's Connect
 
 - 📧 [lombanauci@gmail.com](mailto:lombanauci@gmail.com)
 - 🔗 [linkedin.com/in/jorge-lombana](https://linkedin.com/in/jorge-lombana)
-
----
-Thanks for visiting! ⭐️ If you like my work, feel free to explore my repos and leave a star.
